@@ -1,0 +1,26 @@
+{
+  "name": "PracticeMongo",
+  "version": "1.0.0",
+  "description": "Sample Node.js code to practice use of MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sleuthg/practice_mongo"
+  },
+  "author": {
+    "name": "Trevor Gile",
+    "email": "sleuthg@gmail.com",
+    "url": "http://www.linkedin.com/in/trevorgile"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sleuthg/practice_mongo/issues"
+  },
+  "dependencies": {
+    "mongodb": "^2.0.33"
+  },
+  "devDependencies": {}
+}
